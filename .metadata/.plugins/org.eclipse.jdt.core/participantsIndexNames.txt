@@ -1,0 +1,5 @@
+INDEX VERSION 1.131
+C:\Users\jokmo\CentriVaccinali\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1229093810.index
+\CentriVaccinaliOperatori\src\main\java
+C:\Users\jokmo\CentriVaccinali\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1306983929.index
+\CentriVaccinaliOperatori\src\main\java

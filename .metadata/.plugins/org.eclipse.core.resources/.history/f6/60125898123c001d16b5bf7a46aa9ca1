@@ -1,0 +1,40 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link rel="stylesheet" href="operatori.css">
+<link rel="stylesheet" href="background.css">
+<title>Operatori Centri Vaccinali</title>
+</head>
+<body>
+
+	<div class="context" align=center>
+    <img src="https://w7.pngwing.com/pngs/252/783/png-transparent-red-button-botton-orange-sphere-button.png" alt="Snow">
+  	<button class="btn">Button</button>
+
+	</div>
+
+	<div class="area">
+		<ul class="circles">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+	<input type="submit" onClick="myFunction()"/>
+    <script>
+      function myFunction() {
+        window.location.href="http://programminghead.com";
+      }
+    </script>
+</body>
+</html>

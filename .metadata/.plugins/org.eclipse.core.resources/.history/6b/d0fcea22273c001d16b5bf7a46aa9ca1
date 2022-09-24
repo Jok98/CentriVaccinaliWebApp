@@ -1,0 +1,50 @@
+@charset "ISO-8859-1";
+
+/* bottoni */
+.button {
+	color: rgb(255, 255, 255);
+	font-size: 30px;
+	line-height: 30px;
+	padding: 10px;
+	border-radius: 12px;
+	font-family: Georgia, serif;
+	font-weight: normal;
+	text-decoration: none;
+	font-style: normal;
+	font-variant: normal;
+	text-transform: none;
+	background-image: radial-gradient(at center center, rgb(12, 111, 164) 0%,
+		rgb(10, 136, 164) 100%, rgb(12, 111, 164) 100%);
+	box-shadow: rgba(0, 0, 0, 0) 81px -57px 0px 0px;
+	border: 2px solid rgb(28, 110, 164);
+	display: inline-block;
+}
+
+.button:hover {
+	background: #80c3ff;
+}
+
+.button:active {
+	background: #1ca4ff;
+}
+
+.text{
+	font-size: 20px;
+	text-shadow: 0px 0px 5px #CE5937;
+	color: #EFEFEF;	
+}
+
+.label {
+	display: inline-block;
+	width:150px;
+	text-align: left;
+	font-size: 20px;
+	text-shadow: 0px 0px 5px #CE5937;
+	color: #EFEFEF;
+	
+}
+
+.input {
+	width:250px;
+	font-size: 25px;
+}

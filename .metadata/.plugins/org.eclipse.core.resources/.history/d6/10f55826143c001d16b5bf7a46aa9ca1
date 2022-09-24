@@ -1,0 +1,47 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+	pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<link rel="stylesheet" href="css/operatori.css">
+<link rel="stylesheet" href="css/background.css">
+<title>Operatori Centri Vaccinali</title>
+</head>
+<body>
+	<div class="area">
+		<ul class="circles">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+	<div class="context" align="center">
+	<button onclick="myFunction()" class="button">Iscrizione Centri Vaccinali</button>
+			<script>
+			function myFunction() {
+				location.replace("https://www.w3schools.com")
+			}
+		</script>
+	</div>
+	
+		<div class="context" align="center">
+	<button onclick="myFunction()" class="button">Iscrizione Vaccinati</button>
+			<script>
+			function myFunction() {
+				location.replace("https://www.w3schools.com")
+			}
+		</script>
+	</div>
+	
+	
+</body>
+
+</html>

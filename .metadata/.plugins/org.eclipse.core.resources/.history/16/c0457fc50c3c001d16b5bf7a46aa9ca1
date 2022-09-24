@@ -1,0 +1,35 @@
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Operatori Centri Vaccinali</title>
+</head>
+<body>
+<div class="wrapper">
+  <div class="container">
+    <h1>Welcome</h1>
+    
+    <form class="form">
+      <input type="text" placeholder="Username">
+      <input type="password" placeholder="Password">
+      <button type="submit" id="login-button">Login</button>
+    </form>
+  </div>
+  
+  <ul class="bg-bubbles">
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ul>
+</div>
+</body>
+</html>

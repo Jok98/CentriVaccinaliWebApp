@@ -1,0 +1,32 @@
+@charset "ISO-8859-1";
+html, body {
+  width: 100%;
+  height:100%;
+}
+/* gestione sfondo animato*/
+body {
+    background: linear-gradient(-45deg, #80c3ff, #1ca4ff, #23a6d5, #23d5ab);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+}
+
+/* gestione sfondo animato*/
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+
+/* bottoni */
+.button {
+color: rgb(255, 255, 255); font-size: 30px; line-height: 30px; padding: 10px; border-radius: 12px; font-family: Georgia, serif; font-weight: normal; text-decoration: none; font-style: normal; font-variant: normal; text-transform: none; background-image: radial-gradient(at center center, rgb(12, 111, 164) 0%, rgb(10, 136, 164) 100%, rgb(12, 111, 164) 100%); box-shadow: rgba(0, 0, 0, 0) 81px -57px 0px 0px; border: 2px solid rgb(28, 110, 164); display: inline-block;}
+.button:hover {
+background: #0C6FA4; }
+.button:active {
+background: #0C6FA4; }
